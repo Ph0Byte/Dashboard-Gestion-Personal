@@ -1,7 +1,7 @@
 
 # Dashboard-Gestion-Personal 🖥️
 
-### Grupo 11
+### Grupo 9
 
 ![image](https://github.com/user-attachments/assets/573722bf-f917-4f6e-88d8-514bf6e753d2)
 
